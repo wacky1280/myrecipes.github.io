@@ -1,2 +1,2 @@
-# myrecipes.github.io
+# My Recipes
 Recipes pages
